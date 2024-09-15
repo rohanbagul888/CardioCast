@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/static/heartlogo.png" width="50px" /> Cardio-Monitor</h1>
+<h1> <img src="https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/static/heartlogo.png" width="50px" /> CardioCast</h1>
 
 **Ongoing Project**
 
